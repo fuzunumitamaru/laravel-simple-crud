@@ -1,9 +1,8 @@
 # Laravel Crud App
 
-A simple crud App with Laravel 5.5.
+A simple crud App with Laravel 10 via sail
 
 ## Installation
-
 
 * Clone the repository-
 ```
@@ -25,10 +24,13 @@ cp .env.example .env
 ```
 
 
-Migrate the database and insert dummy entries
-
+* Migrate the database and insert dummy entries
 ```
 php artisan migrate:fresh --seed
 ```
 
-## Run server
+* Run server
+
+
+## NOTES
+
