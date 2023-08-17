@@ -33,4 +33,10 @@ php artisan migrate:fresh --seed
 
 
 ## NOTES
+* After seeding, the default username and password for the admin is admin1234 / pass1234
+* The default password for all seeded users will be 'pass1234'
+* Only registered users can add and view stores.
+* The registration link can be found in the default page: 'login page'
+  
+  
 
